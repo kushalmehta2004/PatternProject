@@ -32,6 +32,8 @@ To run this project locally, follow these steps:
 1. Clone the repository:
    ```sh
    git clone https://github.com/kushalmehta2004/PatternProject.git
+2. Navigate to the project directory.
+3. Open the index.html file.
 
 ## Technologies Used
 1. HTML5
